@@ -3,6 +3,10 @@
     color: yellowgreen;
 }
 
+h1 {
+    color: gold;
+}
+
 li:nth-of-type(even) {
     border: 2px solid yellowgreen;        
 }
