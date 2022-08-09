@@ -20,5 +20,6 @@ img.rounded {
 }
 
 li:nth-of-type(even) {
-    border: 2px solid yellowgreen;        
+    border: 2px solid yellowgreen;
+    display: inline-block;        
 }
